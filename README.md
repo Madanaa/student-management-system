@@ -42,9 +42,9 @@ See live project here
 
 stackoverflow
 
-Contact with me
+## Contact with me
 
-LinkedIn
+https://www.linkedin.com/in/madanofficial/
 
 GitHub
 
