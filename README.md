@@ -28,7 +28,7 @@ See live project here
 
 👨‍💻 Tech stack
 
-I made this projects using new tech stacks
+### Tools and technologies used:
 
 - Java 16
 - Spring Boot
