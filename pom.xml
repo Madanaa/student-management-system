@@ -52,7 +52,13 @@
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
+				<artifactId>maven-archetype-plugin</artifactId>
+     <version>2.4</version>
+     <dependencies>
+     <dependency>
+          <groupId>org.apache.maven.shared</groupId>
+          <artifactId>maven-invoker</artifactId>
+          <version>2.2</version
 			</plugin>
 		</plugins>
 	</build>
