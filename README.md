@@ -23,9 +23,6 @@ Feedback
 
 If you have any feedback, please reach out to us at madandev1994@gmail.com
 
-🌟 Live link
-
-See live project here
 
 👨‍💻 Tech stack
 
